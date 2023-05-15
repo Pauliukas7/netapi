@@ -18,6 +18,7 @@ namespace Catalog.Repositories
 
         public void CreateItem(Item item)
         {
+            Console.WriteLine("posted");
             itemsCollection.InsertOne(item);
         }
 
