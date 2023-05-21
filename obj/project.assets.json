@@ -1586,11 +1586,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\Projects\\C#\\net5restapi\\Catalog\\Catalog.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\Projects\\C#\\net5restapi\\CatalogGitPull\\netapi\\Catalog.csproj",
       "projectName": "Catalog",
-      "projectPath": "C:\\Users\\User\\Desktop\\Projects\\C#\\net5restapi\\Catalog\\Catalog.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\Projects\\C#\\net5restapi\\CatalogGitPull\\netapi\\Catalog.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\Projects\\C#\\net5restapi\\Catalog\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\Projects\\C#\\net5restapi\\CatalogGitPull\\netapi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
