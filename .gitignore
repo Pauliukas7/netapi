@@ -1,35 +1,78 @@
-# From .NET Core 3.0 you can use the command: `dotnet new gitignore` to generate a customizable .gitignore file
-
-*.swp
-*.*~
-project.lock.json
-.DS_Store
-*.pyc
+# .NET Core
+bin/
+obj/
 
 # Visual Studio Code
-.vscode
+.vscode/
+*.code-workspace
 
-# User-specific files
-*.suo
-*.user
-*.userosscache
-*.sln.docstates
+# Compiled output
+*.dll
+*.exe
+*.pdb
+*.dll.config
+*.json
 
 # Build results
 [Dd]ebug/
-[Dd]ebugPublic/
 [Rr]elease/
-[Rr]eleases/
 x64/
 x86/
-build/
-bld/
-[Bb]in/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
 [Oo]bj/
-msbuild.log
-msbuild.err
-msbuild.wrn
+[Tt]est[Rr]esults/
+[Tt]est[Rr]un[Rr]eports/
+[Bb]uild[Ll]og.*
 
-# Visual Studio 2015
-.vscode/
-bin/
+# NuGet Packages
+*.nupkg
+**/packages/
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ii]mport/
+
+# Rider generated files
+.idea/
+
+# dotCover plugin
+*.dotCover
+
+# Xamarin.Android
+*.apk
+*.ap_
+
+# Xamarin.iOS
+*.ipa
+*.p12
+*.mdb
+
+# Flutter/Dart/Pub
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+# Useful for Flutter Developers
+/bin/
+/capture/
+
+# Tools
+# Comment the next line if you want to checkin your Azure Web App settings, but sensitive information contained in these scripts will be unencrypted
+#*.pubxml
+*.publishproj
+
+# Others
+[Dd]ockerfile*
+docker-compose*
+docker*.yml
