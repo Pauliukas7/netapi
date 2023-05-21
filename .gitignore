@@ -31,5 +31,5 @@ msbuild.err
 msbuild.wrn
 
 # Visual Studio 2015
-.vscode
-bin
+.vscode/
+bin/
