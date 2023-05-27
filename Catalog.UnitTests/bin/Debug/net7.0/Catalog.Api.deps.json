@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "Catalog.Api/1.0.0": {
+      "catalog.api/1.0.0": {
         "dependencies": {
           "AspNetCore.HealthChecks.MongoDb": "6.0.2",
           "Microsoft.AspNetCore.OpenApi": "7.0.4",
@@ -14,7 +14,7 @@
           "Swashbuckle.AspNetCore": "6.4.0"
         },
         "runtime": {
-          "Catalog.Api.dll": {}
+          "catalog.api.dll": {}
         }
       },
       "AspNetCore.HealthChecks.MongoDb/6.0.2": {
@@ -268,7 +268,7 @@
     }
   },
   "libraries": {
-    "Catalog.Api/1.0.0": {
+    "catalog.api/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

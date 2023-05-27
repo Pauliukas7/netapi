@@ -8,10 +8,10 @@
     ".NETCoreApp,Version=v7.0": {
       "Catalog.UnitTests/1.0.0": {
         "dependencies": {
-          "Catalog.Api": "1.0.0",
           "FluentAssertions": "6.11.0",
           "Microsoft.Extensions.Logging.Abstractions": "7.0.0",
           "Microsoft.NET.Test.Sdk": "17.3.2",
+          "catalog.api": "1.0.0",
           "coverlet.collector": "3.1.2",
           "Moq": "4.18.4",
           "xunit": "2.4.2",
@@ -1392,7 +1392,7 @@
           }
         }
       },
-      "Catalog.Api/1.0.0": {
+      "catalog.api/1.0.0": {
         "dependencies": {
           "AspNetCore.HealthChecks.MongoDb": "6.0.2",
           "Microsoft.AspNetCore.OpenApi": "7.0.4",
@@ -1400,7 +1400,7 @@
           "Swashbuckle.AspNetCore": "6.4.0"
         },
         "runtime": {
-          "Catalog.Api.dll": {}
+          "catalog.api.dll": {}
         }
       }
     }
@@ -2314,7 +2314,7 @@
       "path": "zstdsharp.port/0.6.2",
       "hashPath": "zstdsharp.port.0.6.2.nupkg.sha512"
     },
-    "Catalog.Api/1.0.0": {
+    "catalog.api/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

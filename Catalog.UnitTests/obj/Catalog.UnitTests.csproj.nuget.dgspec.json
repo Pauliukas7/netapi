@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\Projects\\C#\\net5restapi\\netapi\\Catalog.UnitTests\\Catalog.UnitTests.csproj": {}
+    "c:\\Users\\User\\Desktop\\Projects\\C#\\net5restapi\\netapi\\Catalog.UnitTests\\Catalog.UnitTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\Projects\\C#\\net5restapi\\netapi\\Catalog.Api\\Catalog.Api.csproj": {
+    "c:\\Users\\User\\Desktop\\Projects\\C#\\net5restapi\\netapi\\catalog.api\\catalog.api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\Projects\\C#\\net5restapi\\netapi\\Catalog.Api\\Catalog.Api.csproj",
-        "projectName": "Catalog.Api",
-        "projectPath": "C:\\Users\\User\\Desktop\\Projects\\C#\\net5restapi\\netapi\\Catalog.Api\\Catalog.Api.csproj",
+        "projectUniqueName": "c:\\Users\\User\\Desktop\\Projects\\C#\\net5restapi\\netapi\\catalog.api\\catalog.api.csproj",
+        "projectName": "catalog.api",
+        "projectPath": "c:\\Users\\User\\Desktop\\Projects\\C#\\net5restapi\\netapi\\catalog.api\\catalog.api.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\Projects\\C#\\net5restapi\\netapi\\Catalog.Api\\obj\\",
+        "outputPath": "c:\\Users\\User\\Desktop\\Projects\\C#\\net5restapi\\netapi\\catalog.api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -80,14 +80,14 @@
         }
       }
     },
-    "C:\\Users\\User\\Desktop\\Projects\\C#\\net5restapi\\netapi\\Catalog.UnitTests\\Catalog.UnitTests.csproj": {
+    "c:\\Users\\User\\Desktop\\Projects\\C#\\net5restapi\\netapi\\Catalog.UnitTests\\Catalog.UnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\Projects\\C#\\net5restapi\\netapi\\Catalog.UnitTests\\Catalog.UnitTests.csproj",
+        "projectUniqueName": "c:\\Users\\User\\Desktop\\Projects\\C#\\net5restapi\\netapi\\Catalog.UnitTests\\Catalog.UnitTests.csproj",
         "projectName": "Catalog.UnitTests",
-        "projectPath": "C:\\Users\\User\\Desktop\\Projects\\C#\\net5restapi\\netapi\\Catalog.UnitTests\\Catalog.UnitTests.csproj",
+        "projectPath": "c:\\Users\\User\\Desktop\\Projects\\C#\\net5restapi\\netapi\\Catalog.UnitTests\\Catalog.UnitTests.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\Projects\\C#\\net5restapi\\netapi\\Catalog.UnitTests\\obj\\",
+        "outputPath": "c:\\Users\\User\\Desktop\\Projects\\C#\\net5restapi\\netapi\\Catalog.UnitTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -104,8 +104,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\User\\Desktop\\Projects\\C#\\net5restapi\\netapi\\Catalog.Api\\Catalog.Api.csproj": {
-                "projectPath": "C:\\Users\\User\\Desktop\\Projects\\C#\\net5restapi\\netapi\\Catalog.Api\\Catalog.Api.csproj"
+              "c:\\Users\\User\\Desktop\\Projects\\C#\\net5restapi\\netapi\\catalog.api\\catalog.api.csproj": {
+                "projectPath": "c:\\Users\\User\\Desktop\\Projects\\C#\\net5restapi\\netapi\\catalog.api\\catalog.api.csproj"
               }
             }
           }

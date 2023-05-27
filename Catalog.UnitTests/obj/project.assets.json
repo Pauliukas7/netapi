@@ -2434,7 +2434,7 @@
           "lib/net6.0/ZstdSharp.dll": {}
         }
       },
-      "Catalog.Api/1.0.0": {
+      "catalog.api/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
@@ -2444,10 +2444,10 @@
           "Swashbuckle.AspNetCore": "6.4.0"
         },
         "compile": {
-          "bin/placeholder/Catalog.Api.dll": {}
+          "bin/placeholder/catalog.api.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Catalog.Api.dll": {}
+          "bin/placeholder/catalog.api.dll": {}
         },
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
@@ -7922,18 +7922,18 @@
         "zstdsharp.port.nuspec"
       ]
     },
-    "Catalog.Api/1.0.0": {
+    "catalog.api/1.0.0": {
       "type": "project",
-      "path": "../Catalog.Api/Catalog.Api.csproj",
-      "msbuildProject": "../Catalog.Api/Catalog.Api.csproj"
+      "path": "../catalog.api/catalog.api.csproj",
+      "msbuildProject": "../catalog.api/catalog.api.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
-      "Catalog.Api >= 1.0.0",
       "FluentAssertions >= 6.11.0",
       "Microsoft.Extensions.Logging.Abstractions >= 7.0.0",
       "Microsoft.NET.Test.Sdk >= 17.3.2",
+      "catalog.api >= 1.0.0",
       "coverlet.collector >= 3.1.2",
       "moq >= 4.18.4",
       "xunit >= 2.4.2",
@@ -7946,11 +7946,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\Projects\\C#\\net5restapi\\netapi\\Catalog.UnitTests\\Catalog.UnitTests.csproj",
+      "projectUniqueName": "c:\\Users\\User\\Desktop\\Projects\\C#\\net5restapi\\netapi\\Catalog.UnitTests\\Catalog.UnitTests.csproj",
       "projectName": "Catalog.UnitTests",
-      "projectPath": "C:\\Users\\User\\Desktop\\Projects\\C#\\net5restapi\\netapi\\Catalog.UnitTests\\Catalog.UnitTests.csproj",
+      "projectPath": "c:\\Users\\User\\Desktop\\Projects\\C#\\net5restapi\\netapi\\Catalog.UnitTests\\Catalog.UnitTests.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\Projects\\C#\\net5restapi\\netapi\\Catalog.UnitTests\\obj\\",
+      "outputPath": "c:\\Users\\User\\Desktop\\Projects\\C#\\net5restapi\\netapi\\Catalog.UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7967,8 +7967,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\User\\Desktop\\Projects\\C#\\net5restapi\\netapi\\Catalog.Api\\Catalog.Api.csproj": {
-              "projectPath": "C:\\Users\\User\\Desktop\\Projects\\C#\\net5restapi\\netapi\\Catalog.Api\\Catalog.Api.csproj"
+            "c:\\Users\\User\\Desktop\\Projects\\C#\\net5restapi\\netapi\\catalog.api\\catalog.api.csproj": {
+              "projectPath": "c:\\Users\\User\\Desktop\\Projects\\C#\\net5restapi\\netapi\\catalog.api\\catalog.api.csproj"
             }
           }
         }
